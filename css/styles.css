@@ -13,6 +13,6 @@ h4 {
   text-align: center;
 }
 
-.me {
-  font-style: italic;
+.important {
+  font-weight: bold;
 }
