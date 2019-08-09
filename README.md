@@ -10,7 +10,7 @@ _The homepage of this website includes links to live versions of programming pro
 
 ## Setup/Installation Requirements
 
-_You can view this project at https://jpremmel.github.io/portfolio/. _
+You can view this project at https://jpremmel.github.io/portfolio/.
 
 ### License
 
