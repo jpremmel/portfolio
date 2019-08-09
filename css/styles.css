@@ -3,6 +3,7 @@ img {
   width: 20%;
   height: auto;
   float: right;
+  margin: 12px;
 }
 
 h4 {
@@ -10,7 +11,7 @@ h4 {
 }
 
 .about {
-  padding: 8px;
+  padding: 20px;
 }
 
 .important {
