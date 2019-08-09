@@ -12,3 +12,7 @@ img {
 h4 {
   text-align: center;
 }
+
+.me {
+  font-style: italic;
+}
