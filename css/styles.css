@@ -5,12 +5,12 @@ img {
   float: right;
 }
 
-.about {
-  padding: 8px;
-}
-
 h4 {
   text-align: center;
+}
+
+.about {
+  padding: 8px;
 }
 
 .important {
